@@ -52,8 +52,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalendumanoj&show_icons=true&theme=radical" alt="Amalendu's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalendumanoj&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vagabond-0&show_icons=true&theme=radical" alt="Amalendu's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vagabond-0&theme=radical" width="48%" />
 </p>
 
 ---
